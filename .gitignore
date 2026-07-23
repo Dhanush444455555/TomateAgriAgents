@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+venv/
+*.db
+
+# Node
+node_modules/
+frontend/dist/
+
+# Data
+backend/data/chromadb/
+*.pt
+*.pth
+
+# IDE
+.vscode/
+.idea/

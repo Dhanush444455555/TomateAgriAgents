@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic-settings
+python-dotenv
+chromadb
+sentence-transformers
+apscheduler
+opencv-python
+torch
+ultralytics
+httpx
